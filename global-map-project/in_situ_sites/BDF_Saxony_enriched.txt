@@ -1,0 +1,3 @@
+station_name,latitude,longitude,croptype(2023),timeseries,observing_depth
+Hilbersdorf,50.90257823,13.4071613,Rapeseed (1430),2023/01/01~2025/07/30,0.400000~0.400000
+Koellitsch,51.49893841,13.11270902,Barley (1120),2023/01/01~2025/08/01,0.400000~0.400000

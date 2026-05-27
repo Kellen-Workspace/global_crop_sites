@@ -1,0 +1,2 @@
+station_name,latitude,longitude,croptype(2023),timeseries,observing_depth
+Merzenhausen,50.93032721989854,6.297468022053171,Wheat (1110),2023/01/01~2025/12/30,0.050000~0.050000
